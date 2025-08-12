@@ -13,7 +13,7 @@ The key components are:
 3. Emission Probabilities: The probabilities of observing a particular output given a state. 
 4. Initial Probabilities: The starting probabilities of each hidden state. 
 
-Process: T
+Overall Result: 30806 out of 32853 tags correct or an accuracy of 93.77%
 
 #### Corpus: 
 
@@ -31,5 +31,3 @@ WSJ_24.words   -- to use as your development set (for testing your system)
 WSJ_24.pos     -- to use to check how well your system is doing
 
 WSJ_23.words -- to run your system on.  You should produce a file in the .pos format as your output and submit it as per the submission instructions to be announced.
-
-https://github.com/Jhd9252/viterbi-wsj.git
